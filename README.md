@@ -1,3 +1,6 @@
+#### Note
+This repo was copied from https://gitlab.com/nanuchi/argocd-app-config 
+
 #### Commands
 
 ```bash
